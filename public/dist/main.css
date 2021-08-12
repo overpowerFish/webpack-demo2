@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+}
+
+.index__loginWrapper--2RTfW {
+  width: 100%;
+  height: 80%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.index__loginWrapper--2RTfW .index__loginBox--1LkQr {
+  border: 1px solid #1890ff;
+  width: 640px;
+  padding: 24px;
+  margin: 0 auto;
+}
+.index__loginWrapper--2RTfW .index__btnBox--1s3Q6 {
+  margin-top: 8px;
+}
+.index__footer--2lbGh {
+  width: 100%;
+  height: 20%;
+  border-top: 1px solid #1890ff;
+}
+
